@@ -12,4 +12,4 @@
 
 
 
-	`#0969DA` https://www.wikipedia.org/ :collision:
+	 https://www.wikipedia.org/
