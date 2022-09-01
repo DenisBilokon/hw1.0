@@ -12,17 +12,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-	`#0969DA`
+	`#0969DA` https://www.wikipedia.org/ :collision:
